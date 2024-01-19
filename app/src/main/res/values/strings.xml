@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProID Mobile Application</string>
+    <string name="table_name">MyTable</string>
+    <string name="col1">A1</string>
+    <string name="col2">A2</string>
+    <string name="col3">A3</string>
+    <string name="row1Name">B1</string>
+    <string name="row1Age">B2</string>
+    <string name="row1Surname">B3</string>
+    <string name="row2Name">C1</string>
+    <string name="row2Age">C2</string>
+    <string name="row2Surname">C3</string>
+    <string name="row3Name">D1</string>
+    <string name="row3Age">D2</string>
+    <string name="row3Surname">D3</string>
+</resources>
